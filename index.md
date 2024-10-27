@@ -6,3 +6,34 @@ This is the 2nd paragraph of my file.
 
 This is the 3rd paragraph of my file.  
 This is the 3rd paragraph of my file.This is the 3rd paragraph of my file.This is the 3rd paragraph of my file.This is the 3rd paragraph of my file.
+
+## Visual elements
+
+### Bold
+
+This is **bold** text.
+
+### Iitalic
+
+This is *italic* text.
+
+### Quote
+
+This is a quote:
+> This this is a quote.  
+> This is another quote.
+
+### Code and formulas
+
+#### Code phrase
+
+This is a text with `void` code phrase.
+
+#### Code block
+
+This is a code block:
+```
+<data name="ErrorHeader" xml:space="preserve">
+<value>Error</value>
+</data>
+```
