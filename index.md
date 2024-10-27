@@ -80,9 +80,10 @@ link to file example [additional information](reference.md)
 
 ## Tables
 
- | column 1 | column 2 | column 3 |
- | -------- | -------- | -------- |
- | Row 1 | Row 1 | Row 1 |
+ | column 1         | column 2                   | column 3                       |
+ | ---------------- | -------------------------- | ------------------------------ |
+ | Row 1            | Row 1                      | Row 1                          |
  | Very long phrase | Another very long sentence | Yet another very long sentence |
 
 New line of text
+
