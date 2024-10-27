@@ -6,7 +6,9 @@
   - [Quote](#quote)
   - [Code and formulas](#code-and-formulas)
     - [Code phrase](#code-phrase)
+    - [Formula](#formula)
     - [Code block](#code-block)
+    - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -49,14 +51,24 @@ This is a quote:
 
 This is a text with `void` code phrase.
 
+#### Formula
+
+This is a formula. $a+b=c$
+
 #### Code block
 
 This is a code block:
-```html
+```
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
 ```
+
+#### Formula block
+
+$$
+a+b=c
+$$
 
 ## Linking elements
 
