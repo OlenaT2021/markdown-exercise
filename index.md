@@ -52,7 +52,7 @@ This is a text with `void` code phrase.
 #### Code block
 
 This is a code block:
-```
+```html
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
