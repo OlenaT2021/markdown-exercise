@@ -51,3 +51,15 @@ weather forecast sample: [http://weather-forecast](http://meteo.pl)
 link to file example [additional information](reference.md)
 
 [more information](reference.md)
+
+### images
+
+#### external
+
+![random image](https://picsum.photos/200)
+
+#### internal
+
+![bread](bread.jfif "Bread")
+
+![fir tree](../markdown-exercise/IMG_20211216_140547.jpg)
