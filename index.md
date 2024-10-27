@@ -85,3 +85,4 @@ link to file example [additional information](reference.md)
  | Row 1 | Row 1 | Row 1 |
  | Very long phrase | Another very long sentence | Yet another very long sentence |
 
+New line of text
