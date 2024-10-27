@@ -44,4 +44,8 @@ This is a code block:
 
 #### External
 
-[weather-forecast] http://meteo.pl
+weather forecast sample: [http://weather-forecast] http://meteo.pl
+
+#### internal
+
+link to file example [additional information](reference.md)
