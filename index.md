@@ -63,3 +63,17 @@ link to file example [additional information](reference.md)
 ![bread](bread.jfif "Bread")
 
 ![fir tree](../markdown-exercise/IMG_20211216_140547.jpg)
+
+## Lists
+
+### Ordered
+
+1. Point one
+2. Point two
+3. Point three
+
+### Unordered
+
+* bullet
+* another bullet
+* another one bullet
