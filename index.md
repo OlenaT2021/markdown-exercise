@@ -1,5 +1,26 @@
 # Title
 
+- [Title](#title)
+  - [Visual elements](#visual-elements)
+    - [Bold](#bold)
+    - [Iitalic](#iitalic)
+    - [Quote](#quote)
+    - [Code and formulas](#code-and-formulas)
+      - [Code phrase](#code-phrase)
+      - [Code block](#code-block)
+  - [Linking elements](#linking-elements)
+    - [Links to content](#links-to-content)
+      - [External](#external)
+      - [internal](#internal)
+    - [images](#images)
+      - [external](#external-1)
+      - [internal](#internal-1)
+  - [Lists](#lists)
+    - [Ordered](#ordered)
+    - [Unordered](#unordered)
+  - [Tables](#tables)
+
+
 This is the 1st paragraph of my file.
 
 This is the 2nd paragraph of my file.
