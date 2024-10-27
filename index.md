@@ -37,17 +37,11 @@ This is a code block:
 <value>Error</value>
 </data>
 ```
-```
-def parse_android(xml_path):
-    """Parse Android XML."""
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
 
-    strings = {}
+## Linking elements
 
-    for child in root:
-        if child.tag == "string" and child.attrib.get("translatable", "true") != "false":
-            strings[child.attrib["name"]] = child.text
+### Links to content
 
-    return strings
-    ```
+#### External
+
+[weather-forecast] http://meteo.pl
