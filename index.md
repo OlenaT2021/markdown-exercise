@@ -22,10 +22,10 @@
 - [Tables](#tables)
 - [Horizontal rules](#horizontal-rules)
 - [Fenced code blocks](#fenced-code-blocks)
-- [Footnote](#footnote)
 - [Definition lists](#definition-lists)
 - [Strikethrough](#strikethrough)
 - [ToDo lists](#todo-lists)
+- [Footnote](#footnote)
 
 
 This is the 1st paragraph of my file.
@@ -151,14 +151,6 @@ ___
 
 ~~~
 
-## Footnote
-
-This text includes sentence with the footnotes. [^1]
-
-The footnote will be in the bottom of the page
-
-[^1]: the footnote
-
 ## Definition lists
 
 Term No. 1  
@@ -181,3 +173,10 @@ This is the ~~incorrect~~ word. Here should be used another one word.
 
 [-] contact the office manager
 
+## Footnote
+
+This text includes sentence with the footnotes. [^1]
+
+The footnote will be in the bottom of the page
+
+[^1]: the footnote
