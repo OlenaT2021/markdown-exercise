@@ -22,6 +22,10 @@
 - [Tables](#tables)
 - [Horizontal rules](#horizontal-rules)
 - [Fenced code blocks](#fenced-code-blocks)
+- [Footnote](#footnote)
+- [Definition lists](#definition-lists)
+- [Strikethrough](#strikethrough)
+- [ToDo lists](#todo-lists)
 
 
 This is the 1st paragraph of my file.
@@ -146,4 +150,31 @@ ___
 }
 
 ~~~
+
+## Footnote
+
+Tis text incledues sentence with the footnotes. [^1]
+
+[^1]: the footnote
+
+## Definition lists
+
+Term No. 1  
+this is the definition of term No. 1
+
+Term No. 2  
+this is the definition of term No.3  
+this is another definition of term 2
+
+## Strikethrough
+
+This is the ~~incorrect~~ word. Here should be used another one word.
+
+## ToDo lists
+
+[x] read the book
+
+[ ] write an essay
+
+[-] contact the office manager
 
