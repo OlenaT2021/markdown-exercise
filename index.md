@@ -153,7 +153,9 @@ ___
 
 ## Footnote
 
-Tis text incledues sentence with the footnotes. [^1]
+This text includes sentence with the footnotes. [^1]
+
+The footnote will be in the bottom of the page
 
 [^1]: the footnote
 
@@ -164,6 +166,7 @@ this is the definition of term No. 1
 
 Term No. 2  
 this is the definition of term No.3  
+
 this is another definition of term 2
 
 ## Strikethrough
