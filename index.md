@@ -4,22 +4,24 @@
   - [Bold](#bold)
   - [Iitalic](#iitalic)
   - [Quote](#quote)
-  - [Code and formulas](#code-and-formulas)
-    - [Code phrase](#code-phrase)
-    - [Formula](#formula)
-    - [Code block](#code-block)
-    - [Formula block](#formula-block)
+- [Code and formulas](#code-and-formulas)
+  - [Code phrase](#code-phrase)
+  - [Formula](#formula)
+  - [Code block](#code-block)
+  - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
     - [internal](#internal)
-  - [images](#images)
-    - [external](#external-1)
-    - [internal](#internal-1)
+- [images](#images)
+  - [external](#external-1)
+  - [internal](#internal-1)
 - [Lists](#lists)
   - [Ordered](#ordered)
   - [Unordered](#unordered)
 - [Tables](#tables)
+- [Horizontal rules](#horizontal-rules)
+- [Fenced code blocks](#fenced-code-blocks)
 
 
 This is the 1st paragraph of my file.
@@ -45,17 +47,17 @@ This is a quote:
 > This this is a quote.  
 > This is another quote.
 
-### Code and formulas
+## Code and formulas
 
-#### Code phrase
+### Code phrase
 
 This is a text with `void` code phrase.
 
-#### Formula
+### Formula
 
 This is a formula. $a+b=c$
 
-#### Code block
+### Code block
 
 This is a code block:
 ```
@@ -64,7 +66,7 @@ This is a code block:
 </data>
 ```
 
-#### Formula block
+### Formula block
 
 $$
 a+b=c
@@ -84,13 +86,13 @@ link to file example [additional information](reference.md)
 
 [more information](reference.md)
 
-### images
+## images
 
-#### external
+### external
 
 ![random image](https://picsum.photos/200)
 
-#### internal
+### internal
 
 ![bread](bread.jfif "Bread")
 
@@ -118,4 +120,30 @@ link to file example [additional information](reference.md)
  | Very long phrase | Another very long sentence | Yet another very long sentence |
 
 New line of text
+
+## Horizontal rules
+
+This is a rule
+
+***
+
+This is a rule
+
+---
+
+This is another rule
+
+___
+
+## Fenced code blocks
+
+~~~
+
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+
+~~~
 
