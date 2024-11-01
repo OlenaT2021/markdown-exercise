@@ -59,7 +59,7 @@ This is the ~~incorrect~~ word. Here should be used another one word.
 
 ### Highlight
 
-This is a ==very important text==.
+This is a <mark>very important text<mark>.
 
 ![404 error](../markdown-exercise/page_404.jpg "error")
 
