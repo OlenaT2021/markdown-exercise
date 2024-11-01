@@ -4,11 +4,12 @@
   - [Bold](#bold)
   - [Iitalic](#iitalic)
   - [Quote](#quote)
+  - [Strikethrough](#strikethrough)
 - [Code and formulas](#code-and-formulas)
   - [Code phrase](#code-phrase)
   - [Formula](#formula)
   - [Code block](#code-block)
-- [Fenced code blocks](#fenced-code-blocks)
+  - [Fenced code blocks](#fenced-code-blocks)
   - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
@@ -20,11 +21,11 @@
 - [Lists](#lists)
   - [Ordered](#ordered)
   - [Unordered](#unordered)
-- [Definition lists](#definition-lists)
-- [ToDo lists](#todo-lists)
+  - [Definition lists](#definition-lists)
+  - [ToDo lists](#todo-lists)
 - [Tables](#tables)
 - [Horizontal rules](#horizontal-rules)
-- [Strikethrough](#strikethrough)
+- [Emoji](#emoji)
 - [Footnote](#footnote)
 
 
@@ -51,6 +52,10 @@ This is a quote:
 > This this is a quote.  
 > This is another quote.
 
+### Strikethrough
+
+This is the ~~incorrect~~ word. Here should be used another one word.
+
 ## Code and formulas
 
 ### Code phrase
@@ -70,7 +75,7 @@ This is a code block:
 </data>
 ```
 
-## Fenced code blocks
+### Fenced code blocks
 
 ~~~
 
@@ -128,7 +133,7 @@ link to file example [additional information](reference.md)
 * another bullet
 * another one bullet
 
-## Definition lists
+### Definition lists
 
 Term No. 1  
 this is the definition of term No. 1
@@ -138,7 +143,7 @@ this is the definition of term No.3
 
 this is another definition of term 2
 
-## ToDo lists
+### ToDo lists
 
 [x] read the book
 
@@ -169,9 +174,11 @@ This is another rule
 
 ___
 
-## Strikethrough
+## Emoji
 
-This is the ~~incorrect~~ word. Here should be used another one word.
+Gone camping. :tent:
+
+That's so funny :joy:
 
 ## Footnote
 
