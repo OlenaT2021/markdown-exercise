@@ -61,7 +61,7 @@ This is the ~~incorrect~~ word. Here should be used another one word.
 
 This is a ==very important text==.
 
-![404 error](../markdown-exercise/page_404.jpg "Hover text")
+![Alt text](./markdown-exercise/page_404.jpg "Hover text")
 
 ## Code and formulas
 
