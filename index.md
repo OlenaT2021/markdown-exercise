@@ -15,7 +15,8 @@
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
-    - [internal](#internal)
+    - [Internal](#internal)
+- [Footnote](#footnote)
 - [Images](#images)
   - [external](#external-1)
   - [internal](#internal-1)
@@ -27,7 +28,6 @@
 - [Tables](#tables)
 - [Horizontal rules](#horizontal-rules)
 - [Emoji](#emoji)
-- [Footnote](#footnote)
 - [Link to Confluence](#link-to-confluence)
 
 
@@ -62,7 +62,7 @@ This is the ~~incorrect~~ word. Here should be used another one word.
 
 This is a <mark>very important text<mark>.
 
-![Alt text](../markdown-exercise/page_404.jpg "error")
+![Alt text](../markdown-exercise/page_404.jpg "this is the example of page with 404 error")
 
 ## Code and formulas
 
@@ -109,11 +109,19 @@ $$
 
 weather forecast sample: [http://weather-forecast](http://meteo.pl)
 
-#### internal
+#### Internal
 
 link to file example [additional information](reference.md)
 
 [more information](reference.md)
+
+## Footnote
+
+This text includes sentence with the footnotes. [^1]
+
+The footnote will be in the bottom of the page
+
+[^1]: the footnote
 
 ## Images
 
@@ -184,20 +192,9 @@ ___
 
 ## Emoji
 
-Gone camping. :smiley: :👻:
-
-## Footnote
-
-This text includes sentence with the footnotes. [^1]
-
-The footnote will be in the bottom of the page
-
-[^1]: the footnote
+Gone camping. :smiley: :👻: :+1:
 
 ## Link to Confluence
 
 Visit the [Confluence page](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git) to get the material from the lesson on 27.10.2024
 
-or just click the link below
-
-(https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git)
