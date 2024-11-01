@@ -28,6 +28,7 @@
 - [Horizontal rules](#horizontal-rules)
 - [Emoji](#emoji)
 - [Footnote](#footnote)
+- [Link to Confluence](#link-to-confluence)
 
 
 This is the 1st paragraph of my file.
@@ -194,3 +195,11 @@ This text includes sentence with the footnotes. [^1]
 The footnote will be in the bottom of the page
 
 [^1]: the footnote
+
+## Link to Confluence
+
+Visit the [Confluence page](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git) to get the material from the lesson on 27.10.2024
+
+or just click the link below
+
+https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git
