@@ -5,6 +5,7 @@
   - [Iitalic](#iitalic)
   - [Quote](#quote)
   - [Strikethrough](#strikethrough)
+  - [Highlight](#highlight)
 - [Code and formulas](#code-and-formulas)
   - [Code phrase](#code-phrase)
   - [Formula](#formula)
@@ -55,6 +56,12 @@ This is a quote:
 ### Strikethrough
 
 This is the ~~incorrect~~ word. Here should be used another one word.
+
+### Highlight
+
+This is a ==very important text==.
+
+![Alt text] (./desktop/page 404.jpg "Hover text")
 
 ## Code and formulas
 
@@ -176,7 +183,7 @@ ___
 
 ## Emoji
 
-Gone camping. :tent:
+Gone camping. :tent: :+1: :👻:
 
 That's so funny :joy:
 
