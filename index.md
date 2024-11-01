@@ -197,4 +197,3 @@ Gone camping. :smiley: :👻: :+1:
 ## Link to Confluence
 
 Visit the [Confluence page](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git) to get the material from the lesson on 27.10.2024
-
