@@ -62,7 +62,7 @@ This is the ~~incorrect~~ word. Here should be used another one word.
 
 This is a <mark>very important text<mark>.
 
-![404 error](../markdown-exercise/page_404.jpg "error")
+![Alt text](../markdown-exercise/page_404.jpg "error")
 
 ## Code and formulas
 
@@ -184,9 +184,7 @@ ___
 
 ## Emoji
 
-Gone camping. :tent: :+1: :👻:
-
-That's so funny :joy:
+Gone camping. :smiley: :👻:
 
 ## Footnote
 
@@ -202,4 +200,4 @@ Visit the [Confluence page](https://techcommvistula.atlassian.net/wiki/spaces/TE
 
 or just click the link below
 
-https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git
+(https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git)
