@@ -1,4 +1,4 @@
-# My test document <!-- omit in toc -->
+# Contents <!-- omit in toc -->
 
 - [Visual elements](#visual-elements)
   - [Bold](#bold)
@@ -132,7 +132,7 @@ link to file example [additional information](reference.md)
 * bullet
 * another bullet
 * another one bullet
-
+  
 ### Definition lists
 
 Term No. 1  
