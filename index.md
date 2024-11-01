@@ -192,7 +192,7 @@ ___
 
 ## Emoji
 
-Gone camping. :smiley: :👻: :+1:
+Happy Halloween :👻: :👻: :👻:
 
 ## Link to Confluence
 
