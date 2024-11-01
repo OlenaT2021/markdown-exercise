@@ -1,4 +1,4 @@
-# Title <!-- omit in toc -->
+# My test document <!-- omit in toc -->
 
 - [Visual elements](#visual-elements)
   - [Bold](#bold)
@@ -8,23 +8,23 @@
   - [Code phrase](#code-phrase)
   - [Formula](#formula)
   - [Code block](#code-block)
+- [Fenced code blocks](#fenced-code-blocks)
   - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
     - [internal](#internal)
-- [images](#images)
+- [Images](#images)
   - [external](#external-1)
   - [internal](#internal-1)
 - [Lists](#lists)
   - [Ordered](#ordered)
   - [Unordered](#unordered)
+- [Definition lists](#definition-lists)
+- [ToDo lists](#todo-lists)
 - [Tables](#tables)
 - [Horizontal rules](#horizontal-rules)
-- [Fenced code blocks](#fenced-code-blocks)
-- [Definition lists](#definition-lists)
 - [Strikethrough](#strikethrough)
-- [ToDo lists](#todo-lists)
 - [Footnote](#footnote)
 
 
@@ -70,6 +70,18 @@ This is a code block:
 </data>
 ```
 
+## Fenced code blocks
+
+~~~
+
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+
+~~~
+
 ### Formula block
 
 $$
@@ -90,7 +102,7 @@ link to file example [additional information](reference.md)
 
 [more information](reference.md)
 
-## images
+## Images
 
 ### external
 
@@ -116,6 +128,24 @@ link to file example [additional information](reference.md)
 * another bullet
 * another one bullet
 
+## Definition lists
+
+Term No. 1  
+this is the definition of term No. 1
+
+Term No. 2  
+this is the definition of term No.3  
+
+this is another definition of term 2
+
+## ToDo lists
+
+[x] read the book
+
+[ ] write an essay
+
+[-] contact the office manager
+
 ## Tables
 
  | column 1         | column 2                   | column 3                       |
@@ -139,39 +169,9 @@ This is another rule
 
 ___
 
-## Fenced code blocks
-
-~~~
-
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-
-~~~
-
-## Definition lists
-
-Term No. 1  
-this is the definition of term No. 1
-
-Term No. 2  
-this is the definition of term No.3  
-
-this is another definition of term 2
-
 ## Strikethrough
 
 This is the ~~incorrect~~ word. Here should be used another one word.
-
-## ToDo lists
-
-[x] read the book
-
-[ ] write an essay
-
-[-] contact the office manager
 
 ## Footnote
 
